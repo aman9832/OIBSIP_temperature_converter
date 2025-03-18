@@ -1,8 +1,8 @@
 # Temperature Converter
 A simple web application to convert temperatures between Celsius and Fahrenheit and Kelvin. This app allows users to input a temperature value, select the unit of measurement, and then convert it to the other unit. The result is displayed on the screen.
 ## Link
-- **Website Link**: 
-- **Repository Link**: 
+- **Website Link**: https://aman9832.github.io/temperature-converter/
+- **Repository Link**: https://github.com/aman9832/temperature-converter
 
 ## Features
 
